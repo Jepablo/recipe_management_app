@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Vegetarian"
+    },
+    {
+      "id": 2,
+      "name": "Vegan"
+    },
+    {
+      "id": 3,
+      "name": "Gluten-Free"
+    },
+    {
+      "id": 4,
+      "name": "Dessert"
+    },
+    {
+      "id": 5,
+      "name": "Appetizer"
+    },
+    {
+      "id": 6,
+      "name": "Main Course"
+    }
+  ]
+  
