@@ -8,9 +8,8 @@ User Account: Can add and manage recipe data.
 Login Authentication: Admins and users must log in to access their respective functionalities.
 
 User Accounts:
-Role	Username	Password
-Admin	admin	admin123
-User	user	user123
+( Admin	admin	admin123 )
+( User	user	user123 )
 
 Functionalities
 Admin:
