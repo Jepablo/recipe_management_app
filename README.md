@@ -1,16 +1,41 @@
-# recipe_management_app
+Recipe Management App
+Overview
+The Recipe Management App is a simple application designed for both Admins and Users. Admins have the ability to manage users, while normal users can add and manage their favorite recipes.
 
-A new Flutter project.
+Features:
+Admin Account: Can manage users.
+User Account: Can add and manage recipe data.
+Login Authentication: Admins and users must log in to access their respective functionalities.
 
-## Getting Started
+User Accounts:
+Role	Username	Password
+Admin	admin	admin123
+User	user	user123
 
-This project is a starting point for a Flutter application.
+Functionalities
+Admin:
+Can manage users (add, remove, or modify user information).
+Has access to all user data and recipe information.
+User:
+Can log in to the app to add and manage recipes.
+Can view and edit their own recipe entries.
+Can see recipe details
 
-A few resources to get you started if this is your first Flutter project:
+How to Use
+For Admins:
+Log in using the credentials:
+Username: admin
+Password: admin123
+After login, you will be able to:
+Add new users
+Edit or delete existing users
+View all recipe data added by users
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For Users:
+Log in using the credentials:
+Username: user
+Password: user123
+After login, you can:
+Add new recipes
+Edit or delete your own recipes
+View all recipes you have added
